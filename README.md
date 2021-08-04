@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuandongx
 - 👀 I’m interested in vue, go, python, docker and so on.
 - 🌱 I’m currently learning vue, go, k8s.
-- 💞️ I’m looking to collaborate on gihub.
+- 💞️ I’m looking to collaborate on github.
 - 📫 Email: yuandongx@126.com
 
 <!---
